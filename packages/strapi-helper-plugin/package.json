@@ -102,7 +102,7 @@
     "url-loader": "^1.1.1",
     "webpack": "^3.5.5",
     "webpack-bundle-analyzer": "^2.9.0",
-    "webpack-dev-middleware": "^1.12.0",
+    "webpack-dev-middleware": "^7.2.1",
     "webpack-hot-middleware": "^2.18.2",
     "whatwg-fetch": "^2.0.3"
   }
